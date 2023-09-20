@@ -125,3 +125,12 @@ body{
             background-color: #F1F0ED;
             padding-top: 56px;
         }
+        
+        /*DISEÑOS*/
+        .img_diseng{
+            max-width: 1000px;
+        }
+        .img_diseng img{
+            width: 300px;
+            text-align: center;
+        }
